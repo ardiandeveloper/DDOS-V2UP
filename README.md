@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Versi-1.2.0-blue?style=flat-square" alt="Versi Proyek" />
-  <img src="https://img.shields.io/github/license/username/repo?style=flat-square" alt="Lisensi" />
-  <img src="https://img.shields.io/github/forks/username/repo?style=flat-square" alt="Jumlah Forks" />
-  <img src="https://img.shields.io/github/stars/username/repo?style=flat-square" alt="Jumlah Bintang" />
+  <img src="https://img.shields.io/github/license/ardiandeveloper/repo?style=flat-square" alt="Lisensi" />
+  <img src="https://img.shields.io/github/forks/ardiandeveloper/repo?style=flat-square" alt="Jumlah Forks" />
+  <img src="https://img.shields.io/github/stars/ardiandeveloper/repo?style=flat-square" alt="Jumlah Bintang" />
 </p>
 
 <p align="center">Sebuah alat pengujian penetrasi untuk menguji ketahanan server terhadap serangan DDoS. Dibuat untuk tujuan edukasi dan penelitian keamanan. <strong>Gunakan dengan bijak dan etis.</strong></p>
@@ -34,7 +34,7 @@ Alat ini disediakan **hanya untuk tujuan edukasi dan penelitian**. Penggunaan al
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone [https://github.com/username/nama-proyek.git](https://github.com/username/nama-proyek.git)
+    git clone https://github.com/ardiandeveloper/DDOS-V2UP.git
     cd nama-proyek
     ```
 2.  **Instalasi Dependensi:**
@@ -69,4 +69,6 @@ Proyek ini dilindungi oleh lisensi **MIT**. Lihat berkas [LICENSE](LICENSE) untu
 
 ---
 
-<p align="center">Dibuat dengan ❤️ oleh [Nama Kamu](https://github.com/username)</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dibuat_dengan_❤️_oleh-ArdianDeveloper-2a1c62?style=for-the-badge&logo=github&logoColor=white" alt="Dibuat oleh ArdianDeveloper" />
+</p>
