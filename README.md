@@ -1,4 +1,4 @@
-<h1 align="center">CyberNusantaraV2</h1>
+<h1 align="center">CyberNusantaraV2 FIX</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Versi-1.2.0-blue?style=flat-square" alt="Versi Proyek" />
