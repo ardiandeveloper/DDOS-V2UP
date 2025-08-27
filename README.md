@@ -34,8 +34,8 @@ Alat ini disediakan **hanya untuk tujuan edukasi dan penelitian**. Penggunaan al
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone https://github.com/ardiandeveloper/DDOS-V2UP.git
-    cd nama-proyek
+    git clone [https://github.com/ardiandeveloper/DDOS-V2UP.git](https://github.com/ardiandeveloper/DDOS-V2UP.git)
+    cd DDOS-V2UP
     ```
 2.  **Instalasi Dependensi:**
     ```bash
@@ -66,6 +66,14 @@ Jika alat ini bermanfaat untuk pekerjaan atau risetmu, pertimbangkan untuk mendu
 ## 📄 Lisensi
 
 Proyek ini dilindungi oleh lisensi **MIT**. Lihat berkas [LICENSE](LICENSE) untuk detail lebih lanjut.
+
+---
+
+## 🔒 Lisensi Source Code & Waktu Kadaluarsa
+
+-   **Lisensi:** **CyberNSv2UP**
+-   **Tipe:** Berbayar / Trial
+-   **Waktu Kadaluarsa:** 27 Agustus 2027
 
 ---
 
